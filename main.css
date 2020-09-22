@@ -1,0 +1,48 @@
+html,body,div   {
+    margin: 0;
+    padding: 0;
+}
+body    {
+    font-family: 'Quicksand', sans-serif;
+}
+h2  {
+    text-align: center;
+}
+.contact    {
+    height: 300px;
+    width: 300px;
+    margin: 25% auto;
+    border: 1px solid black;
+}
+.firstname  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lastname   {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.email  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.submit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.submit input   {
+    padding: 1px  120px;
+    margin-top: 35px;
+}
+label   {
+    padding-right: 5px;
+    margin-top: 1px;
+}
+input   {
+    margin-top: 20px;
+}
+
